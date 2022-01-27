@@ -1,3 +1,11 @@
+Project to Check BODY MASS INDEX
+
+Azure Services we can use in this are 
+1. Azure WebChat Bot : To chat with the user and the health advisor if any assistance needed regarding their health whether degrading or not.
+
+2. Azure WebApp services : This service helps us to online our webapp with all its microsoft safety. 
+
+
 # [📱 BMI (Body Mass Index) Calculator JavaScript 📱](https://orange-stone-0e3da7a10.1.azurestaticapps.net/)
 
 **Link** : **[https://orange-stone-0e3da7a10.1.azurestaticapps.net/](https://orange-stone-0e3da7a10.1.azurestaticapps.net/)**</br>
