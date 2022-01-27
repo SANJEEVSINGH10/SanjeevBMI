@@ -5,6 +5,8 @@ Azure Services we can use in this are
 
 2. Azure WebApp services : This service helps us to online our webapp with all its microsoft safety. 
 
+I have more ideas realted to health app and to know that do check Sanjeev New Idea ppt file upload in this app main branch
+
 
 # [📱 BMI (Body Mass Index) Calculator JavaScript 📱](https://orange-stone-0e3da7a10.1.azurestaticapps.net/)
 
