@@ -1,16 +1,17 @@
 Project to Check BODY MASS INDEX
 
-Azure Services we can use in this are 
-1. Azure WebChat Bot : To chat with the user and the health advisor if any assistance needed regarding their health whether degrading or not.
 
-2. Azure WebApp services : This service helps us to online our webapp with all its microsoft safety. 
+Google Cloud Services we can use in this are 
+1. Google CLoud Dialogflow : To chat with the user and the health advisor if any assistance needed regarding their health whether degrading or not.
 
-I have more ideas realted to health app and to know that do check Sanjeev New Idea ppt file upload in this app main branch
+2. Google CLoud services : This service helps us to online our webapp with all its Google safety. 
+
+I have more ideas realted to health app and to know that do check Sanjeev New Idea ppt file upload in this app main branch.
 
 
-# [📱 BMI (Body Mass Index) Calculator JavaScript 📱](https://orange-stone-0e3da7a10.1.azurestaticapps.net/)
+# [📱 BMI (Body Mass Index) Calculator JavaScript 📱](https://sanjeevsingh10.github.io/SanjeevBMI/)
 
-**Link** : **[https://orange-stone-0e3da7a10.1.azurestaticapps.net/](https://orange-stone-0e3da7a10.1.azurestaticapps.net/)**</br>
+**Link** : **[https://orange-stone-0e3da7a10.1.azurestaticapps.net/](https://sanjeevsingh10.github.io/SanjeevBMI/)**</br>
 
 
 A handy **Calculator** to calculate your **BMI (Body Mass Index)**, that works on **all devices**. 📱 💻 🖥
@@ -23,15 +24,15 @@ The Reason why I build this **Calculator** was, because there wasn't a good one 
 ![BMI Calculator Body Mass Index Chart Mobile (Smartphone)](Images/BMI-Calculator-Android_1.png)
 ![BMI Calculator Body Mass Index Chart Mobile (Smartphone)](Images/BMI-Calculator-Android_2.png)
 
-## [💻 Desktop: 🖥](https://orange-stone-0e3da7a10.1.azurestaticapps.net/)
+## [💻 Desktop: 🖥](https://sanjeevsingh10.github.io/SanjeevBMI/)
 ![BMI Calculator Body Mass Index Chart](Images/BMI-Calculator-v1-Image.png)
 
-**[The BMI (Body Mass Index) Calculator is just a Website](https://orange-stone-0e3da7a10.1.azurestaticapps.net/)** that each possible device can access to.</br>
+**[The BMI (Body Mass Index) Calculator is just a Website](https://sanjeevsingh10.github.io/SanjeevBMI/)** that each possible device can access to.</br>
 ## ***You can use the BMI Calculator on your: 📱 💻 🖥***
-- ***[Smartphone](https://orange-stone-0e3da7a10.1.azurestaticapps.net/) (Android/iOS etc.) 📱***
-- ***[Tablet](https://orange-stone-0e3da7a10.1.azurestaticapps.net/) (Chrome, Firefox, Edge, Safari) 📱***
-- ***[Laptop](https://orange-stone-0e3da7a10.1.azurestaticapps.net/) (Chrome, Firefox, Edge, Safari) 💻***
-- ***[Desktop](https://orange-stone-0e3da7a10.1.azurestaticapps.net/) (Chrome, Firefox, Edge, Safari) 🖥***
+- ***[Smartphone](https://sanjeevsingh10.github.io/SanjeevBMI/) (Android/iOS etc.) 📱***
+- ***[Tablet](https://sanjeevsingh10.github.io/SanjeevBMI/) (Chrome, Firefox, Edge, Safari) 📱***
+- ***[Laptop](https://sanjeevsingh10.github.io/SanjeevBMI/) (Chrome, Firefox, Edge, Safari) 💻***
+- ***[Desktop](https://sanjeevsingh10.github.io/SanjeevBMI/) (Chrome, Firefox, Edge, Safari) 🖥***
 
 
 
