@@ -11,7 +11,7 @@ I have more ideas realted to health app and to know that do check Sanjeev New Id
 
 # [📱 BMI (Body Mass Index) Calculator JavaScript 📱](https://sanjeevsingh10.github.io/SanjeevBMI/)
 
-**Link** : **[https://orange-stone-0e3da7a10.1.azurestaticapps.net/](https://sanjeevsingh10.github.io/SanjeevBMI/)**</br>
+**Link** : **[https://sanjeevsingh10.github.io/SanjeevBMI/](https://sanjeevsingh10.github.io/SanjeevBMI/)**</br>
 
 
 A handy **Calculator** to calculate your **BMI (Body Mass Index)**, that works on **all devices**. 📱 💻 🖥
